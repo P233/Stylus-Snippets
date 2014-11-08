@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+padding 
+]]></content>
+	<tabTrigger>pad</tabTrigger>
+	<scope>source.stylus</scope>
+	<description>padding</description>
+</snippet>

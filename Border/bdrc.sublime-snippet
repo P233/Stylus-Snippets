@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+border-right-color 
+]]></content>
+	<tabTrigger>bdrc</tabTrigger>
+	<scope>source.stylus</scope>
+	<description>border-right-color</description>
+</snippet>

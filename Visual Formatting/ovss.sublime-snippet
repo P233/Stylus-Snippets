@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+overflow-style scrollbar
+
+]]></content>
+	<tabTrigger>ovs:s</tabTrigger>
+	<scope>source.stylus</scope>
+	<description>overflow-style:scrollbar</description>
+</snippet>

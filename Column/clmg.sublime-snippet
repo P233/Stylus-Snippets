@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+column-gap 
+]]></content>
+	<tabTrigger>clmg</tabTrigger>
+	<scope>source.stylus</scope>
+	<description>column-gap</description>
+</snippet>

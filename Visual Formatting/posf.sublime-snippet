@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+position fixed
+
+]]></content>
+	<tabTrigger>pos:f</tabTrigger>
+	<scope>source.stylus</scope>
+	<description>position:fixed</description>
+</snippet>

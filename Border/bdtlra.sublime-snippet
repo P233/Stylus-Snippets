@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+border-top-left-radius 
+]]></content>
+	<tabTrigger>bdtlra</tabTrigger>
+	<scope>source.stylus</scope>
+	<description>border-top-left-radius</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+transition 
+]]></content>
+	<tabTrigger>trs</tabTrigger>
+	<scope>source.stylus</scope>
+	<description>transition</description>
+</snippet>

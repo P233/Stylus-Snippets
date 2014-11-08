@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+border-style outset
+
+]]></content>
+	<tabTrigger>bds:o</tabTrigger>
+	<scope>source.stylus</scope>
+	<description>border-style:outset</description>
+</snippet>

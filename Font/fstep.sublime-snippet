@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+font-stretch expanded
+
+]]></content>
+	<tabTrigger>fst:ep</tabTrigger>
+	<scope>source.stylus</scope>
+	<description>font-stretch:expanded</description>
+</snippet>

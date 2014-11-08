@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+perspective 
+]]></content>
+	<tabTrigger>pep</tabTrigger>
+	<scope>source.stylus</scope>
+	<description>perspective</description>
+</snippet>

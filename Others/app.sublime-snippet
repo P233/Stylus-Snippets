@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+appearance 
+]]></content>
+	<tabTrigger>app</tabTrigger>
+	<scope>source.stylus</scope>
+	<description>appearance</description>
+</snippet>

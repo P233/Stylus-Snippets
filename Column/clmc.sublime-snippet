@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+column-count 
+]]></content>
+	<tabTrigger>clmc</tabTrigger>
+	<scope>source.stylus</scope>
+	<description>column-count</description>
+</snippet>

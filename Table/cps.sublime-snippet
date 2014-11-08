@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+caption-side 
+]]></content>
+	<tabTrigger>cps</tabTrigger>
+	<scope>source.stylus</scope>
+	<description>caption-side</description>
+</snippet>

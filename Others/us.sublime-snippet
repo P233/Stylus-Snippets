@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+user-select 
+]]></content>
+	<tabTrigger>us</tabTrigger>
+	<scope>source.stylus</scope>
+	<description>user-select</description>
+</snippet>

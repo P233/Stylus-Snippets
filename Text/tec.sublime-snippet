@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+text-emphasis circle
+
+]]></content>
+	<tabTrigger>te:c</tabTrigger>
+	<scope>source.stylus</scope>
+	<description>text-emphasis:circle</description>
+</snippet>

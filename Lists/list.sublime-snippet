@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+list-style-type 
+]]></content>
+	<tabTrigger>list</tabTrigger>
+	<scope>source.stylus</scope>
+	<description>list-style-type</description>
+</snippet>

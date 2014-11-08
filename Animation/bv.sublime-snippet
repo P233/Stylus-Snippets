@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+backface-visibility 
+]]></content>
+	<tabTrigger>bv</tabTrigger>
+	<scope>source.stylus</scope>
+	<description>backface-visibility</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+resize 
+]]></content>
+	<tabTrigger>rz</tabTrigger>
+	<scope>source.stylus</scope>
+	<description>resize</description>
+</snippet>

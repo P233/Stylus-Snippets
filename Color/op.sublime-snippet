@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+opacity 
+]]></content>
+	<tabTrigger>op</tabTrigger>
+	<scope>source.stylus</scope>
+	<description>opacity</description>
+</snippet>

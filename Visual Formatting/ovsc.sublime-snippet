@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+overflow scroll
+
+]]></content>
+	<tabTrigger>ov:sc</tabTrigger>
+	<scope>source.stylus</scope>
+	<description>overflow:scroll</description>
+</snippet>

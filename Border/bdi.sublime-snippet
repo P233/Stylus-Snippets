@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+border-image 
+]]></content>
+	<tabTrigger>bdi</tabTrigger>
+	<scope>source.stylus</scope>
+	<description>border-image</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+counter-reset 
+]]></content>
+	<tabTrigger>cor</tabTrigger>
+	<scope>source.stylus</scope>
+	<description>counter-reset</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+text-align 
+]]></content>
+	<tabTrigger>ta</tabTrigger>
+	<scope>source.stylus</scope>
+	<description>text-align</description>
+</snippet>

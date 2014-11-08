@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+transform skewX($1)
+$2
+]]></content>
+	<tabTrigger>trf:skx</tabTrigger>
+	<scope>source.stylus</scope>
+	<description>transform:skewX()</description>
+</snippet>

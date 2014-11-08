@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+visibility 
+]]></content>
+	<tabTrigger>vis</tabTrigger>
+	<scope>source.stylus</scope>
+	<description>visibility</description>
+</snippet>

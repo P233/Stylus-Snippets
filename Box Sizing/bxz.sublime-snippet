@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+box-sizing 
+]]></content>
+	<tabTrigger>bxz</tabTrigger>
+	<scope>source.stylus</scope>
+	<description>box-sizing</description>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+-webkit-font-smoothing antialiased
+
+]]></content>
+	<tabTrigger>wkfs:a</tabTrigger>
+	<scope>source.stylus</scope>
+	<description>-webkit-font-smoothing:antialiased</description>
+</snippet>

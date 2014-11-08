@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+font-style 
+]]></content>
+	<tabTrigger>fs</tabTrigger>
+	<scope>source.stylus</scope>
+	<description>font-style</description>
+</snippet>

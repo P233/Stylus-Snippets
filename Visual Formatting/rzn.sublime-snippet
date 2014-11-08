@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+resize none
+
+]]></content>
+	<tabTrigger>rz:n</tabTrigger>
+	<scope>source.stylus</scope>
+	<description>resize:none</description>
+</snippet>

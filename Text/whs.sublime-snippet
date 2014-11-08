@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+white-space 
+]]></content>
+	<tabTrigger>whs</tabTrigger>
+	<scope>source.stylus</scope>
+	<description>white-space</description>
+</snippet>

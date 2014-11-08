@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+overflow-style panner
+
+]]></content>
+	<tabTrigger>ovs:p</tabTrigger>
+	<scope>source.stylus</scope>
+	<description>overflow-style:panner</description>
+</snippet>

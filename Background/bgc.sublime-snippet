@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+background-color 
+]]></content>
+	<tabTrigger>bgc</tabTrigger>
+	<scope>source.stylus</scope>
+	<description>background-color</description>
+</snippet>

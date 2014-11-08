@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+animation-iteration-count 
+]]></content>
+	<tabTrigger>aic</tabTrigger>
+	<scope>source.stylus</scope>
+	<description>animation-iteration-count</description>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+clear left
+
+]]></content>
+	<tabTrigger>cl:l</tabTrigger>
+	<scope>source.stylus</scope>
+	<description>clear:left</description>
+</snippet>

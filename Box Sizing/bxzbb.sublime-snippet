@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+box-sizing border-box
+
+]]></content>
+	<tabTrigger>bxz:bb</tabTrigger>
+	<scope>source.stylus</scope>
+	<description>box-sizing:border-box</description>
+</snippet>

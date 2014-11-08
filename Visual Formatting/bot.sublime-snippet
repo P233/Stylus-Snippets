@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+bottom 
+]]></content>
+	<tabTrigger>bot</tabTrigger>
+	<scope>source.stylus</scope>
+	<description>bottom</description>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+margin auto
+
+]]></content>
+	<tabTrigger>m:au</tabTrigger>
+	<scope>source.stylus</scope>
+	<description>margin:auto</description>
+</snippet>

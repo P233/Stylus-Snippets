@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+$1::-webkit-input-placeholder
+	${2:/* style */}
+$1:-moz-placeholder
+	${2:/* style */}
+$1:-ms-input-placeholder
+	${2:/* style */}
+$0
+]]></content>
+	<tabTrigger>pla</tabTrigger>
+	<scope>source.stylus</scope>
+	<description>:placeholder</description>
+</snippet>

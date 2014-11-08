@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+&:lang($1)
+	${2:/* style */}
+]]></content>
+	<tabTrigger>ln:a</tabTrigger>
+	<scope>source.stylus</scope>
+	<description>&amp:lang</description>
+</snippet>

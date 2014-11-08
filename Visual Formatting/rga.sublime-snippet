@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+right auto
+
+]]></content>
+	<tabTrigger>rg:a</tabTrigger>
+	<scope>source.stylus</scope>
+	<description>right:auto</description>
+</snippet>

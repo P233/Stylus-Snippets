@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+$1:nth-of-type($2)
+	${3:/* style */}
+]]></content>
+	<tabTrigger>nt</tabTrigger>
+	<scope>source.stylus</scope>
+	<description>:nth-of-type()</description>
+</snippet>

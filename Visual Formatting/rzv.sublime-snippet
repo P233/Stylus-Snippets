@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+resize vertical
+
+]]></content>
+	<tabTrigger>rz:v</tabTrigger>
+	<scope>source.stylus</scope>
+	<description>resize:vertical</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+text-height 
+]]></content>
+	<tabTrigger>th</tabTrigger>
+	<scope>source.stylus</scope>
+	<description>text-height</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+transition-delay 
+]]></content>
+	<tabTrigger>trsde</tabTrigger>
+	<scope>source.stylus</scope>
+	<description>transition-delay</description>
+</snippet>

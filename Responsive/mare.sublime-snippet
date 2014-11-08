@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+max-resolution 
+]]></content>
+	<tabTrigger>mare</tabTrigger>
+	<scope>source.stylus</scope>
+	<description>max-resolution</description>
+</snippet>

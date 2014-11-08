@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+top auto
+
+]]></content>
+	<tabTrigger>tp:a</tabTrigger>
+	<scope>source.stylus</scope>
+	<description>top:auto</description>
+</snippet>

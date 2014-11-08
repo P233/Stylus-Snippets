@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+columns 
+]]></content>
+	<tabTrigger>clm</tabTrigger>
+	<scope>source.stylus</scope>
+	<description>columns</description>
+</snippet>

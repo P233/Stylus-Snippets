@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+text-transform 
+]]></content>
+	<tabTrigger>tt</tabTrigger>
+	<scope>source.stylus</scope>
+	<description>text-transform</description>
+</snippet>

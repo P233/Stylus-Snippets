@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+font-stretch condensed
+
+]]></content>
+	<tabTrigger>fst:cd</tabTrigger>
+	<scope>source.stylus</scope>
+	<description>font-stretch:condensed</description>
+</snippet>

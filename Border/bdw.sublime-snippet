@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+border-width 
+]]></content>
+	<tabTrigger>bdw</tabTrigger>
+	<scope>source.stylus</scope>
+	<description>border-width</description>
+</snippet>

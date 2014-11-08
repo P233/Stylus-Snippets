@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+text-justify distribute
+
+]]></content>
+	<tabTrigger>tj:d</tabTrigger>
+	<scope>source.stylus</scope>
+	<description>text-justify:distribute</description>
+</snippet>

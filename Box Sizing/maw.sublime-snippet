@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+max-width 
+]]></content>
+	<tabTrigger>maw</tabTrigger>
+	<scope>source.stylus</scope>
+	<description>max-width</description>
+</snippet>

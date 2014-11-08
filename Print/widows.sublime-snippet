@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+widows 
+]]></content>
+	<tabTrigger>widows</tabTrigger>
+	<scope>source.stylus</scope>
+	<description>widows</description>
+</snippet>

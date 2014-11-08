@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+position absolute
+
+]]></content>
+	<tabTrigger>pos:a</tabTrigger>
+	<scope>source.stylus</scope>
+	<description>position:absolute</description>
+</snippet>
